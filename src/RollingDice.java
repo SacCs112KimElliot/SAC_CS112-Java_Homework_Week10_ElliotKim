@@ -58,3 +58,5 @@ public class RollingDice
         return randomNumber;
     }
 }
+
+// Please use for/while loop instead of if statement
